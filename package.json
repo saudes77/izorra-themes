@@ -2,7 +2,18 @@
     "name": "izorra-themes",
     "displayName": "Izorra Themes",
     "description": "Color themes for Visual Studio Code - Magenta and Teal, if you please",
+    "keywords": [
+        "magenta",
+        "purple",
+        "teal",
+        "aqua",
+        "feminine"
+    ],
     "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saudes77/izorra-themes.git"
+    },
     "publisher": "saudes",
     "engines": {
         "vscode": "^1.27.0"
