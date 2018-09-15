@@ -1,0 +1,22 @@
+{
+    "name": "izorra-themes",
+    "displayName": "Izorra Themes",
+    "description": "Color themes for Visual Studio Code - Magenta and Teal, if you please",
+    "version": "0.1.0",
+    "publisher": "saudes",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Izorra Light",
+                "uiTheme": "vs",
+                "path": "./themes/izorra-light-color-theme.json"
+            }
+        ]
+    }
+}
