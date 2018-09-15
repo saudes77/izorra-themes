@@ -2,6 +2,7 @@
     "name": "izorra-themes",
     "displayName": "Izorra Themes",
     "description": "Color themes for Visual Studio Code - Magenta and Teal, if you please",
+    "icon": "icon.png",
     "keywords": [
         "magenta",
         "purple",

@@ -4,5 +4,8 @@ This is my first stab at creating a color theme for Visual Studio Code. It's a b
 
 ## Izorra Light
 
+### Screenshot
+
+![Screenshot](screenshot.png)
 
 ## Izorra Dark (Coming Soon)
